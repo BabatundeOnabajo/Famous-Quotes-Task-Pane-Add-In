@@ -11,6 +11,7 @@ In order to use this add-in, you will need the following contingent on what oper
 # Instructions
 
 # Disclaimer
+This code is not necessarily indicative of the views of any past, present or future employer of Babatunde Onabajo. Microsoft, Word and other intellectual property are the property of the respective owners. The publication of this code does not necessarily imply the endorsement of Microsoft. 
 
 # Credits
 Babatunde Onabajo (ChurchMapped Limited)

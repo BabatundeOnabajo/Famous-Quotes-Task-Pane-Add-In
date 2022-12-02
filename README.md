@@ -1,5 +1,5 @@
 # Famous-Quotes-Task-Pane-Add-In
-This is a task pane add-in for the popular word processing software Microsoft Word which displays various famous quotes from important people throughout history.
+This is a task pane add-in for the popular word processing software Microsoft Word which displays various famous quotes from important people throughout history. An add-in is a tool within a Microsoft Office product - for example, Microsoft Word, Microsoft PowerPoint, and so on - that extends the functionality of the particular Microsoft product in some way. 
 
 # Requirements
 In order to use this add-in, you will need the following contingent on what operating system you are using:
@@ -20,6 +20,9 @@ This code is not necessarily indicative of the views of any past, present or fut
 
 # Source
 Quotes are sourced from: 
+
+# Submissions
+This repository has been submitted to the following:
 
 # Credits
 Babatunde Onabajo (ChurchMapped Limited)
